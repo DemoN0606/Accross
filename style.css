@@ -89,7 +89,7 @@ body {
     margin: 0 20px;
 }
 
-#icons {
+#icons a{
     padding: 10px;
     border-radius: 50px;
     background-color: #F7F7F7;
@@ -281,6 +281,12 @@ body {
     border: 1px solid #c6c6c6;
     color: #6f6f6f;
 
+}
+
+#ftext button a
+{
+    text-decoration: none;
+    color: #6f6f6f;
 }
 
 
